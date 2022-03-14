@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+h1 {
+    color:aqua;
+    border: 2px solid black;
+}
+p {
+    color:white;
+}
+h2 {
+    color:white;
+}
+a {
+    color:#29ff2c;
+    font-size: 20px;
+}
+address {
+    color:white;
+}
+blockquote {
+    color:white;
+}
